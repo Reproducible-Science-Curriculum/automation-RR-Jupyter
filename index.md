@@ -39,4 +39,24 @@ Description of module
 
 </tr>
 
+<tr>
+      <td class="col-md-3">
+Lesson 2 Name
+      </td>
+      <td class="col-md-5">
+Description of module
+      </td>
+      <td class="col-md-2">
+<a href="./link-to-lesson-narrative">Lesson narrative</a>
+      </td>
+      <td class="col-md-2">
+      &nbsp;
+      </td>
+      <td class="col-md-2">
+      &nbsp;
+       </td>
+
+</tr>
+
+
 </table>
