@@ -9,3 +9,34 @@ FIXME: home page introduction
 >
 > FIXME
 {: .prereq}
+
+## Syllabus
+
+Add syllabus information manually
+
+<!-- table template provided -->
+
+<!-- For each lesson module, add relevant links for slides, lesson narrative (instructor notebook), and student notebook. -->
+
+<table class="table table-striped">
+
+<tr>      
+      <td class="col-md-3"> 
+Lesson 1 Name 
+      </td>
+      <td class="col-md-5"> 
+Description of module
+      </td>
+      <td class="col-md-2">
+<a href="./link-to-lesson-narrative">Lesson narrative</a>
+      </td>
+      <td class="col-md-2">
+<a href="./link-to-slides">Slides</a>
+      </td>
+      <td class="col-md-2">
+<a href="./link-to-student-notebook">Student notebook</a>
+       </td>
+
+</tr>
+
+</table>
