@@ -34,7 +34,7 @@ Description of module
 <a href="./link-to-slides">Slides</a>
       </td>
       <td class="col-md-2">
-<a href="./link-to-student-notebook">Student notebook</a>
+<!--<a href="./link-to-student-notebook">Student notebook</a>-->
        </td>
 
 </tr>
@@ -47,7 +47,7 @@ Lesson 2 Name
 Description of module
       </td>
       <td class="col-md-2">
-<a href="./link-to-lesson-narrative">Lesson narrative</a>
+<!--<a href="./link-to-lesson-narrative">Lesson narrative</a>-->
       </td>
       <td class="col-md-2">
       &nbsp;
