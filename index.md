@@ -22,13 +22,13 @@ Add syllabus information manually
 
 <tr>      
       <td class="col-md-3"> 
-Lesson 1 Name 
+Lesson 1 - Variable naming best practices 
       </td>
       <td class="col-md-5"> 
-Description of module
+Employ best practices of naming a variable including: don’t use existing function names, avoid periods in names, don’t use numbers at the beginning of a variable name.
       </td>
       <td class="col-md-2">
-<a href="./link-to-lesson-narrative">Lesson narrative</a>
+<a href="https://github.com/Reproducible-Science-Curriculum/automation-RR-Jupyter/blob/gh-pages/notebooks/Automation_Lesson1_Intro_Instructor_Notes.ipynb">Lesson narrative</a>
       </td>
       <td class="col-md-2">
 <a href="./link-to-slides">Slides</a>
@@ -41,13 +41,14 @@ Description of module
 
 <tr>
       <td class="col-md-3">
-Lesson 2 Name
+Lesson 2 - Don't Repeat Yourself (DRY)
       </td>
       <td class="col-md-5">
-Description of module
+In this module we will define DRY and provide examples of how you would implement DRY in your code; Don’t repeat yourself!
+Identify code that can be modularized following DRY and implement a modular workflow using functions.
       </td>
       <td class="col-md-2">
-<!--<a href="./link-to-lesson-narrative">Lesson narrative</a>-->
+<a href="https://github.com/Reproducible-Science-Curriculum/automation-RR-Jupyter/blob/gh-pages/notebooks/Automation_Lesson1_Intro_Instructor_Notes.ipynb">Lesson narrative</a>
       </td>
       <td class="col-md-2">
       &nbsp;
