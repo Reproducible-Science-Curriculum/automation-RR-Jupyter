@@ -34,7 +34,7 @@ Employ best practices of naming a variable including: don’t use existing funct
 <a href="./link-to-slides">Slides</a>
       </td>
       <td class="col-md-2">
-<a href="./link-to-student-notebook">Student notebook</a>
+<!--<a href="./link-to-student-notebook">Student notebook</a>-->
        </td>
 
 </tr>
