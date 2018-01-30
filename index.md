@@ -31,7 +31,7 @@ In this lesson we will employ best practices of naming a variable including: don
 <a href="https://github.com/Reproducible-Science-Curriculum/automation-RR-Jupyter/blob/gh-pages/notebooks/Automation_Lesson1_Intro_Instructor_Notes.ipynb">Lesson narrative</a>
       </td>
       <td class="col-md-2">
-<a href="./link-to-slides">Slides</a>
+<a href="./link-to-slides">Slides (Coming soon)</a>
       </td>
       <td class="col-md-2">
 <!--<a href="./link-to-student-notebook">Student notebook</a>-->
@@ -71,7 +71,7 @@ In this lesson we will lean how to construct a function: variables, function nam
 <a href="https://github.com/Reproducible-Science-Curriculum/automation-RR-Jupyter/blob/gh-pages/notebooks/Automation_Lesson1_Intro_Instructor_Notes.ipynb">Lesson narrative</a>
       </td>
       <td class="col-md-2">
-<a href="./link-to-slides">Slides</a>
+<!--<a href="./link-to-slides">Slides</a>-->
       </td>
       <td class="col-md-2">
 <!--<a href="./link-to-student-notebook">Student notebook</a>-->
